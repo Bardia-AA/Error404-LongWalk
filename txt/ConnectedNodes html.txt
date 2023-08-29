@@ -1,3 +1,4 @@
+﻿<!-- edited and recoded by Bardia Asgari Ahi (¬‿¬) -->
 <html>
 
 <head>
@@ -59,7 +60,7 @@
         }, false);
 
 
-        // Init
+        // Init B.A
         function init() {
             var net = undefined;
 
@@ -83,7 +84,7 @@
         }
 
 
-        // Net
+        // Net B.A
         class Net {
             constructor() {
                 this.nodes = [];
@@ -155,7 +156,7 @@
         }
 
 
-        // Node
+        // Node B.A
         class Node {
             constructor(_x, _y) {
                 this.x = _x;
@@ -188,7 +189,7 @@
             return Math.random() * (max - min) + min;
         }
 
-        // Mouse
+        // Mouse B.A
 
         function getMousePos(canvas, evt) {
             var rect = canvas.getBoundingClientRect(), // abs. size of element
@@ -210,3 +211,4 @@
 </body>
 
 </html>
+<!-- edited and recoded by Bardia Asgari Ahi (¬‿¬) -->
