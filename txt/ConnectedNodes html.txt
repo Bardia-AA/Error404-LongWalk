@@ -1,4 +1,4 @@
-﻿<!-- edited and recoded by Bardia Asgari Ahi (¬‿¬) -->
+﻿<!-- edited and recoded by Bardia-AA (¬‿¬) -->
 <html>
 
 <head>
@@ -60,7 +60,7 @@
         }, false);
 
 
-        // Init B.A
+        // Init Bardia-AA
         function init() {
             var net = undefined;
 
@@ -84,7 +84,7 @@
         }
 
 
-        // Net B.A
+        // Net Bardia-AA
         class Net {
             constructor() {
                 this.nodes = [];
@@ -156,7 +156,7 @@
         }
 
 
-        // Node B.A
+        // Node Bardia-AA
         class Node {
             constructor(_x, _y) {
                 this.x = _x;
@@ -189,7 +189,7 @@
             return Math.random() * (max - min) + min;
         }
 
-        // Mouse B.A
+        // Mouse Bardia-AA
 
         function getMousePos(canvas, evt) {
             var rect = canvas.getBoundingClientRect(), // abs. size of element
@@ -211,4 +211,4 @@
 </body>
 
 </html>
-<!-- edited and recoded by Bardia Asgari Ahi (¬‿¬) -->
+<!-- edited and recoded by Bardia-AA (¬‿¬) -->

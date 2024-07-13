@@ -1,4 +1,4 @@
-/* edited and redesigned by Bardia Asgari Ahi;D */
+/* edited and redesigned by Bardia-AA;D */
 
 @font-face {
     font-family: 'Iransans';
@@ -19,6 +19,21 @@ body {
     font-family: 'Iransans', sans-serif;
     font-size: 16px;
     background: #f2f2f2;
+}
+
+.ad-container {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    text-align: center;
+}
+
+.ad-container img {
+    border-radius: 50%;
+    border: 2px solid #555;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    width: 150px;
+    height: 150px;
 }
 
 .wrap-404 {
@@ -317,4 +332,4 @@ body {
         transform: translateX(36%) scale(0.5);
     }
 }
-/* edited and redesigned by Bardia Asgari Ahi;D */
+/* edited and redesigned by Bardia-AA;D */
