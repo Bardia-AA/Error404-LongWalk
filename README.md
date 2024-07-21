@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a custom-designed 404 error page created by Bardia-AA. The page features an animated "sleep-walker" alongside a message in Persian (Farsi) indicating that the requested page could not be found. The design is sleek, simple, and visually engaging, utilizing the "Iransans" font for a clean and modern appearance.
+This repository contains a custom-designed 404 error page. The page features an animated "sleep-walker" alongside a message in Persian (Farsi) indicating that the requested page could not be found. The design is sleek, simple, and visually engaging, utilizing the "Iransans" font for a clean and modern appearance.
 
 ## Features
 
